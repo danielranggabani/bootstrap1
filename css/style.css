@@ -1003,4 +1003,18 @@ footer img{
         top: 13px;
     }    
     /* contacts */
+
+    /* copyright */
+    footer .container-copy .container-text h2{
+        font-size: 25px;
+    }
+
+    footer .container-copy .container-text p{
+        font-size: 10px;
+    }
+
+    footer .container-copy{
+        min-height: 200px;
+    }
+    /* copyright */
 }
